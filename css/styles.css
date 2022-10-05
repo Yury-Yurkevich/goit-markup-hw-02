@@ -338,7 +338,7 @@ body {
 .footer-mail-link:focus,
 .footer-phone-number-link:hover,
 .footer-phone-number-link:focus {
-    color: var(--button-color-blue)
+    color: var(--button-color-blue);
 }
 
 
