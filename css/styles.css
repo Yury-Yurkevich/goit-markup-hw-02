@@ -24,6 +24,10 @@ button {
 .link {
     text-decoration: none;
 }
+a {
+    text-decoration: none;
+    color: #212121;
+}
 /*    маркер списку  вимк    */
 .list {
     list-style: none;
@@ -81,7 +85,9 @@ body {
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-    color: var(--main-text-color-black);
+}
+.accent-color {
+    color: #2196F3;
 }
 
 .nav-contact-menu {
@@ -195,7 +201,7 @@ body {
     color: var(--main-text-color-black);
 }
 .deskription-feature {
-    font-weight: 400;
+   
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
@@ -268,7 +274,6 @@ body {
     text-transform: capitalize;
 }
 .post-member-team {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.19;
     letter-spacing: 0.03em;
@@ -320,7 +325,6 @@ body {
 
 
 .address-link {
-    font-weight: 400;
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
