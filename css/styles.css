@@ -32,8 +32,6 @@ button {
 body {
     background-color: var(--background-color-white);
     font-family: var(--primary-font);
-    width: 1600px;
-    height: 2346px;
     font-size: 14px;
     letter-spacing: 0.03em;
 }
